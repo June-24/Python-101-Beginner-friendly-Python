@@ -10,5 +10,6 @@ s
 print(s)
 #see repeated elemnts are not shown
 #order also different
+#set.add(), set.remove()
 for item in s:
     print("item in set is : ",item)
